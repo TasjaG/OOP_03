@@ -24,12 +24,24 @@
     <ClCompile Include="TComplex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Segment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AComplex.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TComplex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Segment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Point.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

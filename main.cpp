@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	cout<< "a" <<endl;
+	/*cout<< "a" <<endl;
 	Point a(1, 2.4);
 	cout<< "b" <<endl;
 	Point b(1.5);
@@ -45,7 +45,7 @@ int main()
 	cout<< "Distance from Point c to Segment h is " << h.distance(c) <<endl;
 	cout<< "Distance from Point a to Segment h is " << h.distance(a) <<endl;
 	cout << endl;
-
+	*/
 	cout<<"TESTING COMPLETE" <<endl;
 	
 	cin.clear();

@@ -74,11 +74,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Point.cpp" />
+    <ClCompile Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Segment.cpp" />
     <ClCompile Include="AComplex.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TComplex.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Point.h" />
+    <ClInclude Include="..\..\OOP_02_AnastasiyaGrigorieva\OOP_02_AnastasiyaGrigorieva\Segment.h" />
     <ClInclude Include="AComplex.h" />
     <ClInclude Include="TComplex.h" />
   </ItemGroup>
